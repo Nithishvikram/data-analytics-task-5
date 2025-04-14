@@ -1,0 +1,9 @@
+Updated Observations (based on visuals):
+Item_Weight is fairly evenly distributed but may have missing values.
+
+Item_Visibility has a right-skewed distribution and many outliers (likely incorrect near-zero values).
+
+Item_MRP looks normally distributed with clusters around certain price points.
+
+MRP vs Visibility Scatterplot shows no strong trend.
+
